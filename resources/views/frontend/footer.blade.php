@@ -33,11 +33,11 @@
                     Mọi thắc mắc, xin vui lòng đến cửa hàng tại 201/45 Đ.Cầu Giấy hoặc qua hotline: 0123456789
                 </p>
                 <div class="p-t-15">
-                    <a href="https://www.facebook.com/nguyen.manh.670379" class="fs-18 cl7 hov-cl1 trans-04 m-r-10"
+                    <a href="https://www.facebook.com/dangphuongnam1102" class="fs-18 cl7 hov-cl1 trans-04 m-r-10"
                         target="_blank">
                         <i class="fa-brands fa-facebook"></i>
                     </a>
-                    <a href="https://www.instagram.com/_18flyn_/" class="fs-18 cl7 hov-cl1 trans-04 m-r-10"
+                    <a href="" class="fs-18 cl7 hov-cl1 trans-04 m-r-10"
                         target="_blank">
                         <i class="fa-brands fa-instagram"></i>
                     </a>
@@ -47,10 +47,10 @@
             <!-- Logo -->
             <div class="col-sm-6 col-lg-3 p-b-30 text-center">
                 <a href="/" class="d-inline-block mb-3">
-                    <img src="/template/admin/dist/img/download.jpg" alt="PMSTORE" style="height:60px;">
+                    <img src="/template/admin/dist/img/download.jpg" alt="CAMISHOP" style="height:60px;">
                 </a>
                 <p class="stext-104 cl7">
-                    PMSTORE - Nơi mua sắm giày và thời trang chính hãng, uy tín hàng đầu Việt Nam.
+                    CamiShop - Thả ga mua sắm
                 </p>
             </div>
         </div>
@@ -58,7 +58,7 @@
         <!-- Dòng bản quyền -->
         <div class="row mt-4 border-top pt-3">
             <div class="col-12 text-center">
-                <p class="stext-107 cl7">© 2025 PMSTORE. All rights reserved.</p>
+                <p class="stext-107 cl7">© 2025 CamiShop. All rights reserved.</p>
             </div>
         </div>
     </div>

@@ -66,9 +66,9 @@
         <!-- /.content-wrapper -->
         <footer class="main-footer">
             <div class="float-right d-none d-sm-block">
-                <b>Nguyễn Phú Mạnh</b>
+                <b>Đặng Phương Nam</b>
             </div>
-            <strong>FASHION IS NO1</strong>
+            <strong>CamiShop</strong>
         </footer>
 
         <!-- Control Sidebar -->

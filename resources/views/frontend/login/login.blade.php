@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Đăng nhập - PMSTORE</title>
+    <title>Đăng nhập - CamiShop</title>
 
     {{-- Tailwind 2.x --}}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
@@ -61,36 +61,34 @@
                                 <img src="/template/admin/dist/img/download.jpg" alt="">
                             </div>
                             <div>
-                                <h2 class="text-2xl font-bold text-gray-900">PMSTORE</h2>
-                                <p class="text-gray-500">Sneakers & Streetwear</p>
+                                <h2 class="text-2xl font-bold text-gray-900">CamiShop</h2>
+                                <p class="text-gray-500">Mua Sắm Thả Ga - Không Lo Về Giá</p>
                             </div>
                         </div>
 
                         <div class="flex-1 flex items-center justify-center">
-                            <!-- “Minh họa” sneaker -->
-                            <svg viewBox="0 0 512 512" class="w-3/4 drop-shadow-xl">
+                            <svg viewBox="0 0 512 512" width="60" height="60" style="margin-right: 10px;">
                                 <defs>
-                                    <linearGradient id="g1" x1="0" y1="0" x2="1"
-                                        y2="1">
-                                        <stop offset="0%" stop-color="#6366f1" />
-                                        <stop offset="100%" stop-color="#8b5cf6" />
-                                    </linearGradient>
-                                    <linearGradient id="g2" x1="0" y1="0" x2="1"
-                                        y2="0">
-                                        <stop offset="0%" stop-color="#06b6d4" />
-                                        <stop offset="100%" stop-color="#22d3ee" />
-                                    </linearGradient>
+                                <linearGradient id="clothGradient" x1="0" y1="0" x2="1" y2="1">
+                                    <stop offset="0%" stop-color="#6366f1" />
+                                    <stop offset="100%" stop-color="#8b5cf6" />
+                                </linearGradient>
                                 </defs>
-                                <path
-                                    d="M60 300c40 10 95 10 150-30 60-45 80-30 120 0 40 30 90 30 120 20 20 30 20 60-20 80-40 20-120 30-210 30S60 380 40 340c-10-20 0-30 20-40z"
-                                    fill="url(#g1)" />
-                                <path
-                                    d="M110 290c30 5 70 5 110-20 40-25 55-20 85 0 30 20 70 20 95 10 8 12 8 24-10 32-28 14-92 22-160 22s-120-10-136-24c-6-6-2-12 16-20z"
-                                    fill="white" opacity=".9" />
-                                <circle cx="190" cy="330" r="10" fill="url(#g2)" />
-                                <circle cx="240" cy="330" r="10" fill="url(#g2)" />
-                                <circle cx="290" cy="330" r="10" fill="url(#g2)" />
+                                <path fill="url(#clothGradient)" d="M256 32c-18 0-44 10-72 28l-52 32c-4 2-6 8-4 12l20 40c2 4 8 6 12 4l44-24v328c0 8 8 16 16 16h96c8 0 16-8 16-16V124l44 24c4 2 10 0 12-4l20-40c2-4 0-10-4-12l-52-32c-28-18-54-28-72-28z"/>
                             </svg>
+
+                            <span class="brand-text"
+                                style="
+                                font-family: 'Lobster', cursive;
+                                font-size: 32px;
+                                background: linear-gradient(to right, #ff7e5f, #feb47b);
+                                -webkit-background-clip: text;
+                                -webkit-text-fill-color: transparent;
+                                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+                                margin-top: 5px;
+                                ">
+                                CamiShop
+                            </span>
                         </div>
 
                         <div class="space-y-2">
@@ -139,7 +137,7 @@
                     <div class="mb-6 text-center lg:text-left">
                         <h1 class="text-2xl font-bold text-gray-900">Chào mừng trở lại 👋</h1>
                         <p class="text-gray-500 text-sm mt-1">Đăng nhập để tiếp tục mua sắm tại <span
-                                class="font-semibold">PmouShop</span></p>
+                                class="font-semibold">CamiShop</span></p>
                     </div>
                     {{-- Divider --}}
                     <div class="flex items-center my-6">

@@ -8,7 +8,6 @@ use App\Models\Size;
 use Illuminate\Support\Facades\DB;
 class SizeSeeder extends Seeder
 {
-    
     public function run(): void
     {
         // Tắt kiểm tra khóa ngoại
@@ -23,13 +22,14 @@ class SizeSeeder extends Seeder
         // Bật lại kiểm tra khóa ngoại
         DB::statement('SET FOREIGN_KEY_CHECKS=1;');
 
-        // Seed lại dữ liệu size giày
-        $sizes = range(36, 44); // giày từ size 36 -> 44
+        // Seed lại dữ liệu size quần áo
+        $sizes = ['M', 'L', 'XL', 'XXL'];
 
         foreach ($sizes as $size) {
             Size::create([
-                'name' => (string)$size
+                'name' => $size
             ]);
         }
     }
 }
+

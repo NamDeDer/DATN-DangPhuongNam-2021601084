@@ -318,23 +318,21 @@
                         <div class="empty-wrap">
                             <div class="empty-card">
                                 <div class="empty-hero">
-                                    <svg width="88" height="88" viewBox="0 0 24 24" fill="none"
-                                        aria-hidden="true">
-                                        <path
-                                            d="M4 15c2 0 3.5-1 5-3l2 2c1 1 2 1 4 1h3a2 2 0 0 1 2 2v1H3a2 2 0 0 1-2-2v-1h3Z"
-                                            stroke="url(#g1)" stroke-width="1.6" />
-                                        <path d="M9 10c.7.9 1.3 1.5 2 2" stroke="#94a3b8" stroke-width="1.6"
-                                            stroke-linecap="round" />
-                                        <circle cx="6" cy="17" r="1.6" fill="#cbd5e1" />
-                                        <circle cx="18" cy="17" r="1.6" fill="#cbd5e1" />
-                                        <defs>
-                                            <linearGradient id="g1" x1="0" x2="24" y1="0"
-                                                y2="24" gradientUnits="userSpaceOnUse">
-                                                <stop stop-color="#d4af37" />
-                                                <stop offset="1" stop-color="#a9852e" />
-                                            </linearGradient>
-                                        </defs>
+                                    <svg width="88" height="88" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                                    <defs>
+                                        <linearGradient id="g1" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+                                        <stop stop-color="#d4af37" />
+                                        <stop offset="1" stop-color="#a9852e" />
+                                        </linearGradient>
+                                    </defs>
+                                    <path
+                                        d="M7 3c-.6 0-1.2.2-1.7.6L3 5.5c-.3.2-.4.6-.2.9l1.2 2.3c.2.4.7.5 1.1.3L7 8V20c0 .6.4 1 1 1h8c.6 0 1-.4 1-1V8l1.9 1c.4.2.9.1 1.1-.3l1.2-2.3c.2-.3.1-.7-.2-.9l-2.3-1.9c-.5-.4-1.1-.6-1.7-.6H7Z"
+                                        stroke="url(#g1)" stroke-width="1.4" fill="none" stroke-linejoin="round" />
+                                    <path
+                                        d="M9 3.5c.5.8 1.5 1.5 3 1.5s2.5-.7 3-1.5"
+                                        stroke="url(#g1)" stroke-width="1.4" stroke-linecap="round" />
                                     </svg>
+
                                 </div>
                                 <h4 class="mb-2">Giỏ hàng của bạn đang trống</h4>
                                 <div class="empty-sub mb-2">Khám phá bộ sưu tập mới — món đầu tiên sẽ xuất hiện ở đây ✨

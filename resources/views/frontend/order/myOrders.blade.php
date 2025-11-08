@@ -277,7 +277,7 @@
                         </defs>
                     </svg>
                     <h4 class="fw-bold">Bạn chưa có đơn hàng nào</h4>
-                    <p class="text-muted mb-3">Khám phá ngay bộ sưu tập sneaker mới nhất — đơn hàng đầu tiên của bạn sẽ tỏa
+                    <p class="text-muted mb-3">Khám phá ngay bộ sưu tập mới — đơn hàng đầu tiên của bạn sẽ tỏa
                         sáng tại đây!</p>
                     <div class="d-flex justify-content-center gap-3 flex-wrap">
                         <a href="{{ route('fr.product') }}" class="btn btn-lux">

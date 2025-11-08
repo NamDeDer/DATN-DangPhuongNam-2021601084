@@ -184,7 +184,7 @@ header {
                             class="brand-image img-circle elevation-3"
                             style="opacity: .8; width: 50px; height: 120px; border-radius: 50%;">
                         <span class="brand-text"
-                            style="font-family: 'Lobster', cursive; font-size: 32px; color: #ff6347; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); padding-left: 10px; margin-top: 5px;">PMSTORE</span>
+                            style="font-family: 'Lobster', cursive; font-size: 32px; color: #ff6347; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); padding-left: 10px; margin-top: 5px;">CamiShop</span>
                     </a>
 
                     <!-- Menu desktop -->

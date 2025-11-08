@@ -30,7 +30,7 @@
             <div class="col-sm-6 col-lg-3 p-b-30">
                 <h4 class="stext-301 cl0 p-b-20">Liên Hệ</h4>
                 <p class="stext-104 cl7 size-201">
-                    Mọi thắc mắc, xin vui lòng đến cửa hàng tại 201/45 Đ.Cầu Giấy hoặc qua hotline: 0123456789
+                    Địa chỉ: 48 ngõ 136 Cầu Diễn, Minh Khai, Bắc Từ Liêm, Hà Nội
                 </p>
                 <div class="p-t-15">
                     <a href="https://www.facebook.com/dangphuongnam1102" class="fs-18 cl7 hov-cl1 trans-04 m-r-10"

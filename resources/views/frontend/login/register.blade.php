@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Đăng ký - PMSTORE</title>
+    <title>Đăng ký - CamiShop</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
@@ -47,8 +47,8 @@
                                 <img src="/template/admin/dist/img/download.jpg" alt="">
                             </div>
                             <div>
-                                <h2 class="text-2xl font-bold text-gray-900">PMSTORE</h2>
-                                <p class="text-gray-500">Sneakers & Streetwear</p>
+                                <h2 class="text-2xl font-bold text-gray-900">CamiShop</h2>
+                                <p class="text-gray-500">Mua Sắm Thả Ga - Không Lo Về Giá</p>
                             </div>
                         </div>
 
@@ -63,7 +63,7 @@
                 <!-- Form panel -->
                 <div class="glass p-8 sm:p-10 bg-white">
                     <h1 class="text-2xl font-bold text-gray-900 text-center lg:text-left">Tạo tài khoản mới ✨</h1>
-                    <p class="text-gray-500 text-sm mt-1 text-center lg:text-left">Bắt đầu hành trình của bạn tại <span class="font-semibold">PMSTORE</span></p>
+                    <p class="text-gray-500 text-sm mt-1 text-center lg:text-left">Bắt đầu hành trình của bạn tại <span class="font-semibold">CamiShop</span></p>
 
                     <form action="{{ route('fr.post.register') }}" method="POST" class="mt-6 space-y-5">
                         @csrf

@@ -12,7 +12,7 @@
             <div class="flex justify-center mb-4">
                 <img src="/template/admin/dist/img/download.jpg" alt="PMSTORE" class="w-16 h-16 rounded-full shadow-lg">
             </div>
-            <h1 class="text-3xl font-extrabold text-white tracking-wide">PMSTORE</h1>
+            <h1 class="text-3xl font-extrabold text-white tracking-wide">CamiShop</h1>
             <p class="text-gray-300 text-sm mt-2">Đăng nhập để tiếp tục hành trình của bạn</p>
         </div>
 
@@ -57,7 +57,7 @@
     </div>
 
     <footer class="absolute bottom-4 text-center w-full text-gray-500 text-xs">
-        © 2025 PMSTORE. All rights reserved.
+        © 2025 CamiShop. All rights reserved.
     </footer>
 
     {{-- FontAwesome --}}

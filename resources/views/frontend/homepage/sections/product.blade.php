@@ -215,7 +215,7 @@
     </div>
 </section>
 
-<!-- Brand section -->
+{{-- <!-- Brand section -->
 <section class="brand-section py-5" style="background: #f8f9fa;">
     <div class="container">
         <h3 class="text-center mb-5 fw-bold" style="letter-spacing: 1px; font-size: 26px;">
@@ -234,4 +234,4 @@
             @endforeach
         </div>
     </div>
-</section>
+</section> --}}

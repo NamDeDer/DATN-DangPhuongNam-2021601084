@@ -15,7 +15,6 @@ class UploadService
                 if ($file->isValid()) {
                     $name = time() . '_' . $file->getClientOriginalName();
                     $pathFull = "uploads/$folder";
-
                     $file->move(public_path($pathFull), $name);
 
                     return [
